@@ -1,4 +1,4 @@
-## Face Mask Detection using YOLOv5
+## Face Mask Detection using 
 
 ### Setup
 
